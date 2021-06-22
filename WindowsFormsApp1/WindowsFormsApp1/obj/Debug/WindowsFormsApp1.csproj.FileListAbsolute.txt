@@ -1,0 +1,52 @@
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddExc.resources
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddTour.resources
+C:\Users\maple\Desktop\oop-labs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormOrgInfo.resources
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCompetitorInfo.resources
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPerf.resources
+C:\Users\Maxim\Desktop\hello\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddCompetition.resources
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPerf.resources
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddCompetition.resources
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCompetitorInfo.resources
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sergii\Downloads\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddPerf.resources
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAddCompetition.resources
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCompetitorInfo.resources
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ihor\Desktop\lab3 (1)\lab3\lab3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
