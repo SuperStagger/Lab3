@@ -1,0 +1,39 @@
+D:\Study\Code\2 курс\Laba_3\Laba_3\bin\Debug\Laba_3.exe.config
+D:\Study\Code\2 курс\Laba_3\Laba_3\bin\Debug\Laba_3.exe
+D:\Study\Code\2 курс\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.csprojAssemblyReference.cache
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.Properties.Resources.resources
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.GenerateResource.cache
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.CoreCompileInputs.cache
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.exe
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.pdb
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.Form1.resources
+D:\Study\Code\2 курс\Laba_3\Laba_3\obj\Debug\Laba_3.Form2.resources
+E:\Laba_3\Laba_3\Laba_3\bin\Debug\Laba_3.exe.config
+E:\Laba_3\Laba_3\Laba_3\bin\Debug\Laba_3.exe
+E:\Laba_3\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.csprojAssemblyReference.cache
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.Properties.Resources.resources
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.GenerateResource.cache
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.CoreCompileInputs.cache
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.exe
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.pdb
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.MainForm.resources
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.AddAccountForm.resources
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.AddRoomForm.resources
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.DetailViewForm.resources
+E:\Laba_3\Laba_3\Laba_3\obj\Debug\Laba_3.EditAccountingForm.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\bin\Debug\Laba_3.exe.config
+C:\Users\User\Desktop\Laba_3\Laba_3\bin\Debug\Laba_3.exe
+C:\Users\User\Desktop\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.AddRoomForm.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.DetailViewForm.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.EditAccountingForm.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.MainForm.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.AddAccountForm.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.Properties.Resources.resources
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.exe
+C:\Users\User\Desktop\Laba_3\Laba_3\obj\Debug\Laba_3.pdb
